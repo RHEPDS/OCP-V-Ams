@@ -1,4 +1,4 @@
-<img src="https://github.com/RHEPDS/OCPVirt/blob/main/Pc_pv_logo.png" width="700" height="200">
+<img src="https://github.com/RHEPDS/OCP-V-Ams/blob/main/amsterdam.png?raw=true" width="700" height="200">
 
 # Red Hat OpenShift Virtualisation
 ## Amsterdam 09 2024
