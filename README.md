@@ -23,41 +23,46 @@
 
 ## Architecture Workshop - OpenShift Virtualization for TechSales and Consultants 
 
-09:30 - 11:00	Overview presentation
+09:30   Overview presentation
 
-11:30 - 12:00	OCP-V LAB (HandsOn) - Creating a Virtual Machine on OCP-Virt 
+11:30   OCP-V LAB (HandsOn) - Creating a Virtual Machine on OCP-Virt 
 
-12:00 - 13:00	Lunch Break
+12:00   Lunch Break
 
-13:00 - 14:00 OCP Migration LAB (HandsOn)
+13:00   OCP Migration LAB (HandsOn)
 
-14:00 - 14:30 Your journey with OpenShift Virtualization
+14:00   Your journey with OpenShift Virtualization
 
-14:30 - 14:45 BREAK  	
+14:30   BREAK  	
 
-14:45 - 16:00 Continued Lab (HandsOn)
+14:45   Continued Lab (HandsOn)
 
 
 ###  Part 3
 
 ## OpenShift- Virtualisation Deep Dive
 
-09:30
+09:00   Welcome and Intro	
 
-10:15
+09:15   OpenShift Basic installation on Bare Metal Cluster Layout discussion
+    		Compact, Single Node, Regular, HCP ….
 
-11:00
+10:30   Installing the OpenShift Virtualisation Operator and configuration 
 
-11:15
+11:00 	BREAK		
 
-12:00
+11:15   Setting up Local storage (Single Node and OpenShift Data Foundation)
+    		Networking options, installing NMStat and SR-IOV
 
-13:00
+12:00	  Lunch Break
 
-13:30
+13:00	  Backup and Disaster Recovery (OADP and ODF)  
 
-14:00
+13:30   Migration Options (MTV and Ansible Migration) 		
 
-15:00
+14:30   Migration Risks
+
+15:00		Q&A
+
 
 
